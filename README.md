@@ -3,23 +3,23 @@ tugas kuliah Image Prosesing
 
 disini menggunakan python 3.5 64bit
 sebelum di running dipastikan untuk menginstall install ImageAi dan dependenciesnya
-- Tensorflow
+- Tensorflow : 
   pip install tensorflow
-- Numpy
+- Numpy : 
   pip install numpy
-- SciPy
+- SciPy : 
   pip install scipy
-- OpenCV
+- OpenCV : 
   pip install opencv-python
-- Pillow
+- Pillow : 
   pip install pillow
-- Matplotlib
+- Matplotlib : 
   pip install matplotlib
-- H5py
+- H5py : 
   pip install h5py
-- Keras
+- Keras : 
   pip install keras
-- ImageAI
+- ImageAI : 
   pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
   
 lalu download RetinaNet Model https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5

@@ -1,7 +1,10 @@
 # image-prosesing-ImageAI
 tugas kuliah Image Prosesing
+
 171022000044 – Riky Susanto (Github : riky-cloud)
+
 171022000045 – Jati Prasetyo (Github : jattiblee)
+
 171022000062 – Juri Pebrianto (Github : aquarink)
 
 
